@@ -1,2 +1,0 @@
-# BarraProcura
-Created with CodeSandbox
